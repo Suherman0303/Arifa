@@ -1,0 +1,504 @@
+
+#EXTINF:0 group-title="Local",ASTRO RIA
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5466.ts
+#EXTINF:0 group-title="Local",ASTRO PRIMA HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5467.ts
+#EXTINF:0 group-title="Local",ASTRO OASIS HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5468.ts
+#EXTINF:0 group-title="Local",ASTRO WARNA HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5469.ts
+#EXTINF:0 group-title="Local",ASTRO NAURA
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5470.ts
+#EXTINF:0 group-title="Local",ASTRO VAANAVIL
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5471.ts
+#EXTINF:0 group-title="Local",ASTRO VINMEEN HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5472.ts
+#EXTINF:0 group-title="Local",ASTRO BOLLYONE HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5473.ts
+#EXTINF:0 group-title="Local",ASTRO XIAO TAI YANG HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5474.ts
+#EXTINF:0 group-title="Local",ASTRO AEC HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5475.ts
+#EXTINF:0 group-title="Local",ASTRO QUAN JIA HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5476.ts
+#EXTINF:0 group-title="Local",ASTRO HUA HEE DAI HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5477.ts
+#EXTINF:0 group-title="Local",ASTRO CERIA HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5478.ts
+#EXTINF:0 group-title="sport",mysport
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5947.ts
+#EXTINF:0 group-title="sport",Mysport 1 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5948.ts
+#EXTINF:0 group-title="sport",Mysport 2 FHD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5949.ts
+#EXTINF:0 group-title="sport",Mysport 2 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5950.ts
+#EXTINF:0 group-title="sport",Mysport 3 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5951.ts
+#EXTINF:0 group-title="sport",Mysport 4 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5952.ts
+#EXTINF:0 group-title="sport",Mysport 5 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5953.ts
+#EXTINF:0 group-title="sport",Mysport 6 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5954.ts
+#EXTINF:0 group-title="sport",Mysport 7 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5955.ts
+#EXTINF:0 group-title="sport",Mysport 8 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5956.ts
+#EXTINF:0 group-title="sport",Mysport 9 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5957.ts
+#EXTINF:0 group-title="sport",Premier Sport 1
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5029.ts
+#EXTINF:0 group-title="sport",Premier Sport 2
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5030.ts
+#EXTINF:0 group-title="sport",Sky Sport 1 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6824.ts
+#EXTINF:0 group-title="sport",Sky Sport 2 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6827.ts
+#EXTINF:0 group-title="sport",Sky Sport 3 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6830.ts
+#EXTINF:0 group-title="sport",Sky Sport 4 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6833.ts
+#EXTINF:0 group-title="sport",Sky Sport 5 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6836.ts
+#EXTINF:0 group-title="sport",Sky Sport 6 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6839.ts
+#EXTINF:0 group-title="sport",Sky Sport 7 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6842.ts
+#EXTINF:0 group-title="sport",Sky Sport 8 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6845.ts
+#EXTINF:0 group-title="sport",Sky Sport 9 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6848.ts
+#EXTINF:0 group-title="sport",Sky Sport 10 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6851.ts
+#EXTINF:0 group-title="sport",Sky Sport 11 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6854.ts
+#EXTINF:0 group-title="sport",Sky Sport 13 Hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6858.ts
+#EXTINF:0 group-title="sport",Sky Sport 14 Hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6860.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 1 Hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6863.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 1 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6864.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 2 FHd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6865.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 2 Hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6866.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 2 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6867.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 3 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6870.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 4 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6873.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 5 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6876.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 6 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6879.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 7 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6882.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 8 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6885.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 9 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6888.ts
+#EXTINF:0 group-title="sport",Sky Sport Bundeliga 10 SD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/6891.ts
+#EXTINF:0 group-title="sport",astro arena hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5479.ts
+#EXTINF:0 group-title="sport",astro super sport 1 hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5480.ts
+#EXTINF:0 group-title="sport",astro super sport 2 hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5481.ts
+#EXTINF:0 group-title="sport",astro super sport 3 hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5482.ts
+#EXTINF:0 group-title="sport",astro super sport 4 hd
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5483.ts
+#EXTINF:0 group-title="sport",astro rugby pass tv
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5484.ts
+#EXTINF:0 group-title="Local",Astro Rania HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5485.ts
+#EXTINF:0 group-title="Local",Astro Aura HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5486.ts
+#EXTINF:-1,[MY] TV ALHIJRAH
+http://starshare.live:8080/live/543678/546789/5624.ts
+#EXTINF:-1,[MY] COLORS HD
+http://starshare.live:8080/live/543678/546789/5625.ts
+#EXTINF:-1,[MY] GO SHOP RUUMA
+http://starshare.live:8080/live/543678/546789/5626.ts
+#EXTINF:-1,[MY] GO SHOP GAAYA
+http://starshare.live:8080/live/543678/546789/5627.ts
+#EXTINF:-1,[MY] MAKKAL TV
+http://starshare.live:8080/live/543678/546789/5628.ts
+#EXTINF:-1,[MY] SUN MUSIC
+http://starshare.live:8080/live/543678/546789/5629.ts
+#EXTINF:-1,[MY] CHUTTI TV
+http://starshare.live:8080/live/543678/546789/5630.ts
+#EXTINF:-1,[MY] ADITHYA
+http://starshare.live:8080/live/543678/546789/5631.ts
+#EXTINF:-1,[MY] ZEE Tamil HD
+http://starshare.live:8080/live/543678/546789/5632.ts
+#EXTINF:-1,[MY] STAR VIJAY HD
+http://starshare.live:8080/live/543678/546789/5633.ts
+#EXTINF:-1,[MY] COLORS TAMIL
+http://starshare.live:8080/live/543678/546789/5634.ts
+#EXTINF:-1,[MY] SUN TV HD
+http://starshare.live:8080/live/543678/546789/5635.ts
+#EXTINF:-1,[MY] iQIYI HD
+http://starshare.live:8080/live/543678/546789/5636.ts
+#EXTINF:-1,[MY] GO SHOP 2
+http://starshare.live:8080/live/543678/546789/5637.ts
+#EXTINF:-1,[MY] TVB CLASSIC
+http://starshare.live:8080/live/543678/546789/5638.ts
+#EXTINF:-1,[MY] SHUANG XING HD
+http://starshare.live:8080/live/543678/546789/5639.ts
+#EXTINF:0 group-title="movie",Celestial HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5640.ts
+#EXTINF:-1,[MY] WLT | JADE
+http://starshare.live:8080/live/543678/546789/5641.ts
+#EXTINF:-1,[MY] AOD 351 HD
+http://starshare.live:8080/live/543678/546789/5642.ts
+#EXTINF:-1,[MY] CTI ASIA
+http://starshare.live:8080/live/543678/546789/5643.ts
+#EXTINF:-1,[MY] TVB E-NEWS
+http://starshare.live:8080/live/543678/546789/5644.ts
+#EXTINF:-1,[MY] TVB XING HE HD
+http://starshare.live:8080/live/543678/546789/5645.ts
+#EXTINF:-1,[MY] TVBS ASIA HD
+http://starshare.live:8080/live/543678/546789/5646.ts
+#EXTINF:-1,[MY] CCM
+http://starshare.live:8080/live/543678/546789/5647.ts
+#EXTINF:-1,[MY] CCTV4 HD
+http://starshare.live:8080/live/543678/546789/5648.ts
+#EXTINF:-1,[MY] AOD 352 HD
+http://starshare.live:8080/live/543678/546789/5649.ts
+#EXTINF:-1,[MY] AOD 353 HD
+http://starshare.live:8080/live/543678/546789/5650.ts
+#EXTINF:-1,[MY] AOD 354 HD
+http://starshare.live:8080/live/543678/546789/5651.ts
+#EXTINF:-1,[MY] AOD 355 HD
+http://starshare.live:8080/live/543678/546789/5652.ts
+#EXTINF:-1,[MY] KBS World HD
+http://starshare.live:8080/live/543678/546789/5653.ts
+#EXTINF:-1,[MY] ONE HD
+http://starshare.live:8080/live/543678/546789/5654.ts
+#EXTINF:-1,[MY] Oh!K HD
+http://starshare.live:8080/live/543678/546789/5655.ts
+#EXTINF:-1,[MY] tvN HD
+http://starshare.live:8080/live/543678/546789/5656.ts
+#EXTINF:0 group-title="movie",Hits Movie HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5657.ts
+#EXTINF:0 group-title="movie",HBO HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5658.ts
+#EXTINF:0 group-title="movie",CINEMAX HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5659.ts
+#EXTINF:0 group-title="movie",tv Movie
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5660.ts
+#EXTINF:0 group-title="Local",ASTRO AWANI
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5661.ts
+#EXTINF:-1,[MY] BNC
+http://starshare.live:8080/live/543678/546789/5662.ts
+#EXTINF:-1,[MY] CGTN
+http://starshare.live:8080/live/543678/546789/5663.ts
+#EXTINF:-1,[MY] CNN HD
+http://starshare.live:8080/live/543678/546789/5664.ts
+#EXTINF:-1,[MY] BBC News HD
+http://starshare.live:8080/live/543678/546789/5665.ts
+#EXTINF:-1,[MY] AL JAZEERA HD
+http://starshare.live:8080/live/543678/546789/5666.ts
+#EXTINF:-1,[MY] SKY NEWS HD
+http://starshare.live:8080/live/543678/546789/5667.ts
+#EXTINF:-1,[MY] CNA HD
+http://starshare.live:8080/live/543678/546789/5668.ts
+#EXTINF:-1,[MY] CNBC
+http://starshare.live:8080/live/543678/546789/5669.ts
+#EXTINF:-1,[MY] BLOOMBERG TV
+http://starshare.live:8080/live/543678/546789/5670.ts
+#EXTINF:-1,[MY] ABC AUSTRALIA
+http://starshare.live:8080/live/543678/546789/5671.ts
+#EXTINF:-1,[MY] NGW HD
+http://starshare.live:8080/live/543678/546789/5672.ts
+#EXTINF:-1,[MY] NAT GEO HD
+http://starshare.live:8080/live/543678/546789/5673.ts
+#EXTINF:-1,[MY] DISCOVERY HD
+http://starshare.live:8080/live/543678/546789/5674.ts
+#EXTINF:-1,[MY] DISCOVERY ASIA
+http://starshare.live:8080/live/543678/546789/5675.ts
+#EXTINF:-1,[MY] DISC SCI HD
+http://starshare.live:8080/live/543678/546789/5676.ts
+#EXTINF:-1,[MY] HISTORY HD
+http://starshare.live:8080/live/543678/546789/5677.ts
+#EXTINF:-1,[MY] ANIMAL PLANET HD
+http://starshare.live:8080/live/543678/546789/5678.ts
+#EXTINF:-1,[MY] TUTOR TV UPSR
+http://starshare.live:8080/live/543678/546789/5679.ts
+#EXTINF:-1,[MY] TUTOR TV PT3
+http://starshare.live:8080/live/543678/546789/5680.ts
+#EXTINF:-1,[MY] TUTOR TV SPM
+http://starshare.live:8080/live/543678/546789/5681.ts
+#EXTINF:-1,[MY] TVIQ
+http://starshare.live:8080/live/543678/546789/5682.ts
+#EXTINF:0 group-title="Kids",DISNEY XD HD
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5683.ts
+#EXTINF:0 group-title="Kids",DISNE JUNIOR
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5684.ts
+#EXTINF:0 group-title="Kids",DISNEY CHANNEL HD
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5685.ts
+#EXTINF:0 group-title="Kids",CARTOON NTWK HD
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5686.ts
+#EXTINF:0 group-title="Kids",NICKELODEON HD
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5687.ts
+#EXTINF:0 group-title="Kids",NICK JR
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5688.ts
+#EXTINF:0 group-title="movie",AXN HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5689.ts
+#EXTINF:0 group-title="Local",ASTRO HELLO
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5690.ts
+#EXTINF:0 group-title="Movie",KIX HD
+#EXTGRP:Movie
+http://starshare.live:8080/live/543678/546789/5691.ts
+#EXTINF:0 group-title="Movie",HITS HD
+#EXTGRP:Movie
+http://starshare.live:8080/live/543678/546789/5692.ts
+#EXTINF:-1,[MY] TLC HD
+http://starshare.live:8080/live/543678/546789/5693.ts
+#EXTINF:-1,[MY] FOOD NTWK HD
+http://starshare.live:8080/live/543678/546789/5694.ts
+#EXTINF:0 group-title="Movie",AFN HD
+#EXTGRP:Movie
+http://starshare.live:8080/live/543678/546789/5695.ts
+#EXTINF:-1,[MY] NATGEO PEOPLE
+http://starshare.live:8080/live/543678/546789/5696.ts
+#EXTINF:0 group-title="Movie",WARNER TV
+#EXTGRP:Movie
+http://starshare.live:8080/live/543678/546789/5697.ts
+#EXTINF:-1,[MY] C&I HD
+http://starshare.live:8080/live/543678/546789/5698.ts
+#EXTINF:-1,[MY] HGTV HD
+http://starshare.live:8080/live/543678/546789/5699.ts
+#EXTINF:-1,[MY] DMAX HD
+http://starshare.live:8080/live/543678/546789/5700.ts
+#EXTINF:-1,[MY] COMEDY CENTRAL
+http://starshare.live:8080/live/543678/546789/5701.ts
+#EXTINF:-1,[MY] MTV
+http://starshare.live:8080/live/543678/546789/5702.ts
+#EXTINF:0 group-title="Kids",ANIMAX
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5703.ts
+#EXTINF:-1,[MY] eGG Network
+http://starshare.live:8080/live/543678/546789/5704.ts
+#EXTINF:0 group-title="sport",Fox Sports HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5705.ts
+#EXTINF:0 group-title="sport",Fox Sports 2 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5706.ts
+#EXTINF:0 group-title="sport",Fox Sports 3 HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5707.ts
+#EXTINF:0 group-title="sport",beIN Sports
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5708.ts
+#EXTINF:-1,[MY] bEIN MAX
+http://starshare.live:8080/live/543678/546789/5709.ts
+#EXTINF:0 group-title="sport",EUROSPORT HD
+#EXTGRP:sport
+http://starshare.live:8080/live/543678/546789/5710.ts
+#EXTINF:-1,[MY] WWE NETWORK
+http://starshare.live:8080/live/543678/546789/5711.ts
+#EXTINF:-1,[MY] GOLF CHANNEL HD
+http://starshare.live:8080/live/543678/546789/5712.ts
+#EXTINF:-1,[MY] ANIPLUS HD
+http://starshare.live:8080/live/543678/546789/5713.ts
+#EXTINF:-1,[MY] KPLUS HD
+http://starshare.live:8080/live/543678/546789/5714.ts
+#EXTINF:-1,[MY] DW HD
+http://starshare.live:8080/live/543678/546789/5715.ts
+#EXTINF:-1,[MY] FRANCE24 HD
+http://starshare.live:8080/live/543678/546789/5716.ts
+#EXTINF:0 group-title="Local",Astro Citra HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5717.ts
+#EXTINF:0 group-title="movie",FOX Action Movies
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5718.ts
+#EXTINF:0 group-title="movie",FOX HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5719.ts
+#EXTINF:0 group-title="movie",FOX Family Movies
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5720.ts
+#EXTINF:0 group-title="movie",ABO Movies Thangthirai HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5721.ts
+#EXTINF:0 group-title="Local",TV1
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5722.ts
+#EXTINF:0 group-title="Local",TV2
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5723.ts
+#EXTINF:0 group-title="Local",TV3
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5724.ts
+#EXTINF:0 group-title="Kids",BOO HD
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5725.ts
+#EXTINF:0 group-title="movie",Astro Office Movies tayangan Hebat HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5726.ts
+#EXTINF:0 group-title="Local",8TV
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5727.ts
+#EXTINF:0 group-title="Local",TV9
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5728.ts
+#EXTINF:0 group-title="Local",Drama sangat
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5729.ts
+#EXTINF:0 group-title="Local",NTN7
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5730.ts
+#EXTINF:0 group-title="Kids",Baby TV
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5731.ts
+#EXTINF:-1,[MY] BBC Earth HD
+http://starshare.live:8080/live/543678/546789/5732.ts
+#EXTINF:-1,[MY] BBC Lifestyle
+http://starshare.live:8080/live/543678/546789/5733.ts
+#EXTINF:-1,[MY] Blue Ant Entertainment
+http://starshare.live:8080/live/543678/546789/5734.ts
+#EXTINF:-1,[MY] Blue Ant Extreme
+http://starshare.live:8080/live/543678/546789/5735.ts
+#EXTINF:-1,[MY] Boomerang HD
+http://starshare.live:8080/live/543678/546789/5736.ts
+#EXTINF:0 group-title="movie",Cinema World HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5737.ts
+#EXTINF:-1,[MY] Colors Cineplex
+http://starshare.live:8080/live/543678/546789/5738.ts
+#EXTINF:0 group-title="Kids",Dreamworks HD
+#EXTGRP:Kids
+http://starshare.live:8080/live/543678/546789/5739.ts
+#EXTINF:0 group-title="movie",Dunia Sinema
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5740.ts
+#EXTINF:0 group-title="movie",FOX Life HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5741.ts
+#EXTINF:0 group-title="movie",FOX Movies HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5742.ts
+#EXTINF:0 group-title="movie",FX Cinema HD
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5743.ts
+#EXTINF:-1,[MY] Jaya Max
+http://starshare.live:8080/live/543678/546789/5744.ts
+#EXTINF:-1,[MY] MTV Asia
+http://starshare.live:8080/live/543678/546789/5745.ts
+#EXTINF:-1,[MY] NatGeo Asia HD
+http://starshare.live:8080/live/543678/546789/5746.ts
+#EXTINF:-1,[MY] Now Chinese Drama
+http://starshare.live:8080/live/543678/546789/5747.ts
+#EXTINF:-1,[MY] Now Jelli
+http://starshare.live:8080/live/543678/546789/5748.ts
+#EXTINF:-1,[MY] Paramount Channel
+http://starshare.live:8080/live/543678/546789/5749.ts
+#EXTINF:-1,[MY] Pesona HD
+http://starshare.live:8080/live/543678/546789/5750.ts
+#EXTINF:0 group-title="Local",Salaam HD
+#EXTGRP:Local
+http://starshare.live:8080/live/543678/546789/5751.ts
+#EXTINF:0 group-title="movie",SCM Legend
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5752.ts
+#EXTINF:-1,[MY] SCM
+http://starshare.live:8080/live/543678/546789/5753.ts
+#EXTINF:0 group-title="movie",SETi Chinese
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5754.ts
+#EXTINF:-1,[MY] Sony SAB
+http://starshare.live:8080/live/543678/546789/5755.ts
+#EXTINF:-1,[MY] Sony SetMAX
+http://starshare.live:8080/live/543678/546789/5756.ts
+#EXTINF:-1,[MY] Sony TV
+http://starshare.live:8080/live/543678/546789/5757.ts
+#EXTINF:-1,[MY] Star Chinese Channel HD
+http://starshare.live:8080/live/543678/546789/5758.ts
+#EXTINF:-1,[MY] Travel Channel HD
+http://starshare.live:8080/live/543678/546789/5759.ts
+#EXTINF:0 group-title="movie",UTV Movies International
+#EXTGRP:movie
+http://starshare.live:8080/live/543678/546789/5760.ts
